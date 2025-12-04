@@ -1,0 +1,39 @@
+{
+  "name": "2nd Piece",
+  "description": "Add Description",
+  "actions": [
+    {
+      "name": "pointer1",
+      "ticks": [
+        {
+          "id": "1.1",
+          "type": "pointerMove",
+          "x": 67.5,
+          "y": 77.6,
+          "duration": 904
+        },
+        {
+          "id": "1.2",
+          "type": "pointerDown",
+          "button": 0
+        },
+        {
+          "id": "1.3",
+          "type": "pointerMove",
+          "x": 49.6,
+          "y": 27.9,
+          "duration": 915
+        },
+        {
+          "id": "1.4",
+          "type": "pointerUp",
+          "button": 0
+        }
+      ],
+      "color": "#FF3333",
+      "id": "1"
+    }
+  ],
+  "id": "5c604873-4a26-4911-8822-71286def958c",
+  "date": 1764869546035
+}

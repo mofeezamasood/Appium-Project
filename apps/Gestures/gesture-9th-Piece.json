@@ -1,0 +1,39 @@
+{
+  "name": "9th Piece",
+  "description": "Add Description",
+  "actions": [
+    {
+      "name": "pointer1",
+      "ticks": [
+        {
+          "id": "1.1",
+          "type": "pointerMove",
+          "x": 34.1,
+          "y": 78.1,
+          "duration": 904
+        },
+        {
+          "id": "1.2",
+          "type": "pointerDown",
+          "button": 0
+        },
+        {
+          "id": "1.3",
+          "type": "pointerMove",
+          "x": 69.9,
+          "y": 47.2,
+          "duration": 915
+        },
+        {
+          "id": "1.4",
+          "type": "pointerUp",
+          "button": 0
+        }
+      ],
+      "color": "#FF3333",
+      "id": "1"
+    }
+  ],
+  "id": "adfa285c-4522-4ff8-8bc9-ccaac293ce03",
+  "date": 1764869502480
+}

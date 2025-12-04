@@ -1,0 +1,39 @@
+{
+  "name": "7th Piece",
+  "description": "Add Description",
+  "actions": [
+    {
+      "name": "pointer1",
+      "ticks": [
+        {
+          "id": "1.1",
+          "type": "pointerMove",
+          "x": 77.4,
+          "y": 85.3,
+          "duration": 904
+        },
+        {
+          "id": "1.2",
+          "type": "pointerDown",
+          "button": 0
+        },
+        {
+          "id": "1.3",
+          "type": "pointerMove",
+          "x": 29.6,
+          "y": 47.7,
+          "duration": 915
+        },
+        {
+          "id": "1.4",
+          "type": "pointerUp",
+          "button": 0
+        }
+      ],
+      "color": "#FF3333",
+      "id": "1"
+    }
+  ],
+  "id": "81e2ee8f-1cb5-468b-b5db-46ea65d1faec",
+  "date": 1764869694708
+}
